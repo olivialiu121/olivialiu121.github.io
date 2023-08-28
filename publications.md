@@ -10,7 +10,7 @@ Lastest Update: Aug 27 2023
 
 - [Efficient Non-Sampling Graph Neural Networks](https://www.mdpi.com/2078-2489/14/8/424)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>Information 2023.<br>July 25 2023.<br>
 
-- [Counterfactual Collaborative Reasoning](https://dl.acm.org/doi/abs/10.1145/3539597.3570464)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang<br>The 16th ACM International Conference on Web Search and Data Mining (**WSDM 2023**).<br>February 27 - March 3, 2023, Singapore.
+- [Counterfactual Collaborative Reasoning](https://dl.acm.org/doi/abs/10.1145/3539597.3570464)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang<br>The 16th ACM International Conference on Web Search and Data Mining (**WSDM 2023**).<br>February 27 - March 3, 2023, Singapore. [PDF](https://www.yongfeng.me/attach/ji-wsdm2023.pdf)
 
 - [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3477495.3531941)<br>**Zelong Li**, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang.<br>The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**).<br>July 11 - 15, 2022, Madrid, Spain. [Code](https://github.com/rutgerswiselab/AutoLossGen)
 
@@ -24,8 +24,8 @@ Lastest Update: Aug 27 2023
 
 ## Preprints
 
-- [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/abs/2307.00457)<br>Jianchao Ji, **Zelong Li**, Shuyuan Xu, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>arXiv:2307.00457
+- [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/abs/2307.00457)<br>Jianchao Ji, **Zelong Li**, Shuyuan Xu, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>arXiv:2307.00457. [Code](https://github.com/rutgerswiselab/GenRec)
 
-- [A Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2207.12515)<br>Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, **Zelong Li**, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.<br>arXiv:2207.12515
+- [A Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2207.12515)<br>Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, **Zelong Li**, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.<br>arXiv:2207.12515.
 
 - [Counterfactual Evaluation for Explainable AI](https://arxiv.org/abs/2109.01962)<br>Yingqiang Ge, Shuchang Liu, **Zelong Li**, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.<br>arXiv:2109.01962.
