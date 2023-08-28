@@ -38,17 +38,17 @@ links:
     url: /file/CV_Zelong_Li.pdf
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  # - title: Awards
+  #   url: /awards/
   # - title: Fundings
   #   url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Hobbies
+  #   url: /hobbies/
   # - title: Blogs
   #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
+timezone: US/Eastern
 future: true
 highlighter: rouge
 # markdown: kramdown
@@ -76,8 +76,8 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]

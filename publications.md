@@ -4,31 +4,28 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 27th Aug 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+Lastest Update: Aug 27 2023
 
-## Conference Paper
+## Publications
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://www.researchgate.net/publication/369505759)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
+- [Efficient Non-Sampling Graph Neural Networks](https://www.mdpi.com/2078-2489/14/8/424)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>Information 2023.<br>July 25 2023.<br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://ieeexplore.ieee.org/abstract/document/10037387)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
+- [Counterfactual Collaborative Reasoning](https://dl.acm.org/doi/abs/10.1145/3539597.3570464)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang<br>The 16th ACM International Conference on Web Search and Data Mining (**WSDM 2023**).<br>February 27 - March 3, 2023, Singapore.
 
-## Working Manuscript
+- [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3477495.3531941)<br>**Zelong Li**, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang.<br>The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**).<br>July 11 - 15, 2022, Madrid, Spain. [Code](https://github.com/rutgerswiselab/AutoLossGen)
 
-- BLEGuard: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks (Student Abstract)<br>AAAI Conference on Artificial Intelligence (AAAI 2024, CCF-A). Under review.<br>
+- [Explainable Fairness in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531973)<br>Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, **Zelong Li**, Yongfeng Zhang.<br>The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**).<br>July 11 - 15, 2022, Madrid, Spain.
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classiﬁcation Machine Learning Techniques<br>Sensors MDPI Journal (IF: 3.847, JCR Q2). Under major modification.<br>
+- [From Kepler to Newton: Explainable AI for Science Discovery](https://arxiv.org/abs/2111.12210)<br>**Zelong Li**, Jianchao Ji, Yongfeng Zhang.<br>ICML 2022 2nd AI for Science Workshop. [Video and Slides](https://slideslive.com/38986142)
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>The 5th International Conference on Modeling, Simulation, Optimization and Algorithm. Under working.
+- [HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation](https://par.nsf.gov/servlets/purl/10295248)<br>Zuohui Fu, Yikun Xian, Yaxin Zhu, Shuyuan Xu, **Zelong Li**, Gerard De Melo, Yongfeng Zhang.<br>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**)<br>July 11 - 15, 2021, Virtual Event, Canada. [Code](https://github.com/zuohuif/HOOPS)
 
-  <br>
+- [Efficient Non-Sampling Knowledge Graph Embedding](https://dl.acm.org/doi/abs/10.1145/3442381.3449859)<br>**Zelong Li**, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen, Yongfeng Zhang.The Web Conference 2021 (**WWW 2021**)<br>April 19 - 23, 2021, Ljubljana, Slovenia. [PDF](https://par.nsf.gov/servlets/purl/10295245). [Code](https://github.com/rutgerswiselab/NS-KGE)
 
----
+## Preprints
 
-## Undergraduate Thesis
+- [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/abs/2307.00457)<br>Jianchao Ji, **Zelong Li**, Shuyuan Xu, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>arXiv:2307.00457
 
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final year project, under working!<br>Expect to publish a research paper in Internet of Things Journal (IoTJ 2024)
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Intern Program for Junior Students.<br>Industrial Placement Thesis in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/info/1023/2571.htm)<br>
+- [A Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2207.12515)<br>Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, **Zelong Li**, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.<br>arXiv:2207.12515
 
-## Competition Paper
-
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo (Advisor: Zhezhuang Xu)<br>Mathematical Contest In Modeling (COMAP 2023)<br>**Finalist Award** (Top 1% of all 20858 paper).<br>
+- [Counterfactual Evaluation for Explainable AI](https://arxiv.org/abs/2109.01962)<br>Yingqiang Ge, Shuchang Liu, **Zelong Li**, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.<br>arXiv:2109.01962.
