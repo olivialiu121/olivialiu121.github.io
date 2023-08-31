@@ -1,4 +1,4 @@
-# GuangLun means Nimbus in Chinese
+# README
 
 My name is **Zelong Li (李泽龙)**. Here is my personal website. It is forked form [this repo](https://github.com/GuangLun2000/GuangLun2000.github.io). Welcome to fork for free!
 

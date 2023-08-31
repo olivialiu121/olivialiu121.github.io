@@ -28,12 +28,14 @@ I am a Ph.D. Candidate majoring in Computer Science at [Rutgers University](http
 - Automated Machine Learning (AutoML)
 - Large Language Model (LLM)
 
-My current research focuses on
+My main research topic in my Ph.D. career focuses on using  Automated Machine Learning for Information Retrieval. In addition, I also explore Knowledge Graph, Artificial Intelligence for Science Discovery, Recommendation Foundation Models, and Efficient and Explainable Artificial Intelligence.
 
 <br>
 
 ---
 
-## News and Updates
+## Coding Competition Awards
 
-TODO
+- 1st in Selection Contest for the 31st National Olympiad in Informatics in Fujian Province (2014) (top 0.03%)
+- 2nd Prize in the 7th Asia and Pacific Informatics Olympiad 2014 (APIO 2014) (top 0.06%)
+- 3rd Prize in the 31st National Olympiad in Informatics (NOI 2014) (top 0.23%)
