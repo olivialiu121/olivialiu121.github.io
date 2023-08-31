@@ -30,7 +30,7 @@ I have over 15 years of coding experience. I wrote the LOGO language to get an a
 - Automated Machine Learning (AutoML)
 - Large Language Model (LLM)
 
-My main research topic in my Ph.D. career focuses on using  Automated Machine Learning for Information Retrieval. In addition, I also explore Knowledge Graph, Artificial Intelligence for Science Discovery, Recommendation Foundation Models, and Efficient and Explainable Artificial Intelligence.
+My main research topic in my Ph.D. career focuses on using  Automated Machine Learning for Information Retrieval. In addition, I also explore Knowledge Graphs, Reinforcement Learning, Recommendation Foundation Models, Artificial Intelligence for Science Discovery, and Efficient and Explainable Artificial Intelligence.
 
 <br>
 
