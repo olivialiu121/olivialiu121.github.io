@@ -6,7 +6,7 @@ title: Experience
 
 Lastest Update: Sep 5 2023
 
-## Research experience
+## Research Experience
 
 - **Data Portability and Privacy Protection**<br>*Independent Researcher*, January 2023 – Present
 
@@ -20,9 +20,10 @@ Lastest Update: Sep 5 2023
 
 - **White & Case LLP**, Central, Hong Kong<br>*Legal Manager*, September 2022 – Present
     - TMT / PE & MA<br> 
-
+<br>
 - **Global Law Office**, Beijing, China<br>*Junior Associate*, April 2020 – May 2021
     - Investment Funds<br>
 <br> 
 - **Orrick, Herrington & Sutcliffe Law Firm**, Beijing, China<br>*Summer Intern*, July 2019 – October 2019
     - TMT / Corporate<br> 
+<br>

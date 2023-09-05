@@ -14,6 +14,8 @@ In my spare time, I enjoy photography and hiking.
 <img src="/images/photo_3.jpg">
 </div>
 
+<br>
+
 ## Hiking
 
 <div class="third">
