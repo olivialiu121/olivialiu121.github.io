@@ -4,16 +4,20 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: Aug 31 2023
+Lastest Update: Sep 5 2023
 
-## Competitions
+## Awards
 
-- 1st in Selection Contest for the 31st National Olympiad in Informatics in Fujian Province (2014) (top 0.03%)
-- 2nd Prize in the 7th Asia and Pacific Informatics Olympiad 2014 (APIO 2014) (top 0.06%)
-- 3rd Prize in the 31st National Olympiad in Informatics (NOI 2014) (top 0.23%)
+- 2019: TECO International Contest, Gold Medalist (0.1%)
+- 2019: Princeton Environmental Ideathon, Gold Prize (0.1%)
+- 2019: China “Internet+” Innovation and Entrepreneurship Competition, Second Prize (5%) 
+- 2018: "Challenge Cup" Tsinghua University Academic Competition, Second Prize 
 
-## Scholarships
+## Honor
 
-- Alexa Prize Academic Research Sponsorship, 2023
-- SIGIR Student Travel Grant, 2022
-- The Web Conference Student Scholarship, 2021
+- 2019: Tsinghua Technology Excellence Scholarship
+- 2018: Tsinghua Scientific Innovation Excellence Scholarship
+- 2017: Tsinghua Academic Excellence Scholarship
+- 2017: Tsinghua Comprehensive Excellence Scholarship
+- 2016: Tsinghua Social Work Excellence Scholarship
+- 2016: Tsinghua Social Investigation Excellence Scholarship
