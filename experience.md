@@ -8,7 +8,7 @@ Lastest Update: Sep 5 2023
 
 ## Research experience
 
-- **Data Portability and Privacy Protection**<br>January 2023 – Present
+- **Data Portability and Privacy Protection**<br>*Independent Researcher*, January 2023 – Present
 
 - **Legal Analysis of Specialized Courts in China**<br>*Research Assistant*, June 2020 – May 2021<br>Supervisor: [Mark Jia](https://www.law.georgetown.edu/faculty/mark-jia/), Associate Professor, Georgetown University, School of Law
 
@@ -19,10 +19,10 @@ Lastest Update: Sep 5 2023
 ## Work Experience
 
 - **White & Case LLP**, Central, Hong Kong<br>*Legal Manager*, September 2022 – Present
-    - *TMT / PE & MA*
+    - TMT / PE & MA<br>
 
 - **Global Law Office**, Beijing, China<br>*Junior Associate*, April 2020 – May 2021
-    - Investment Funds
+    - Investment Funds<br>
 
 - **Orrick, Herrington & Sutcliffe Law Firm**, Beijing, China<br>*Summer Intern*, July 2019 – October 2019
-    - TMT / corporate
+    - TMT / Corporate<br>

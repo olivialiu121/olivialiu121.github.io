@@ -2,9 +2,9 @@
 layout: page
 ---
 
-## About Me
-
 <img src="https://olivialiu121.github.io/olivia.jpg" class="floatpic" width="512" height="512">
+
+## About Me
 
 Here is **Shuang LIU**.
 
