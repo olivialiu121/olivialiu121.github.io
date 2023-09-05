@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://lzl65825.github.io/olivia.jpg" class="floatpic" width="269" height="403">
+<img src="https://olivialiu121.github.io/olivia.jpg" class="floatpic" width="269" height="403">
 
 Here is **Zelong Li**.
 
