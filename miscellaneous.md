@@ -17,8 +17,13 @@ In my spare time, I enjoy photography and hiking.
 
 ## Hiking
 
-<div class="third">
+<div class="half">
 <img src="/images/hiking_1.jpg">
-<img src="/images/hiking_2.jpg">
 <img src="/images/hiking_3.jpg">
 </div>
+
+<div class="half">
+<img src="/images/cut_1.jpg">
+<img src="/images/cut_2.jpg">
+</div>
+
