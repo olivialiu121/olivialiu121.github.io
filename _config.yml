@@ -1,21 +1,21 @@
-title: Zelong Li
+title: Shuang Liu
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://lzl65825.github.io
+url: https://olivialiu121.github.io
 
 # Owner/author information
 owner:
-  name: Zelong Li
-  avatar: akai.jpg
+  name: Shuang Liu
+  avatar: avatar.jpg
 #  bio:
-  email: zelong.li@rutgers.edu
+  email: liushua@seas.upenn.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
-  github: lzl65825
-  linkedin: zelong-li-5a6a82223
-  scholar: https://scholar.google.com/citations?user=QuSh1ioAAAAJ
+  # github: lzl65825
+  linkedin: -shuang-liu
+  # scholar: https://scholar.google.com/citations?user=QuSh1ioAAAAJ
   # instagram: lancecai2002
   # lastfm:
   # tumblr:
@@ -34,21 +34,21 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV_Zelong_Li.pdf
-  - title: Publications
-    url: /publications/
+  # - title: Resume
+  #   url: /file/CV_Zelong_Li.pdf
+  - title: Experience
+    url: /experience/
   - title: Awards
     url: /awards/
   # - title: Fundings
   #   url: /fundings/
-  # - title: Hobbies
-  #   url: /hobbies/
+  - title: Miscellaneous
+    url: /miscellaneous/
   # - title: Blogs
   #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: US/Eastern
+timezone: China/Beijing
 future: true
 highlighter: rouge
 # markdown: kramdown

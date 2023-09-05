@@ -4,13 +4,26 @@ layout: page
 
 ## About Me
 
-<img src="https://olivialiu121.github.io/olivia.jpg" class="floatpic" width="269" height="403">
+<img src="https://olivialiu121.github.io/olivia.jpg" class="floatpic" width="512" height="512">
 
-Here is **Zelong Li**.
+Here is **Shuang LIU**.
 
-I received my Bachelor's in Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/). Currently, I am a Ph.D. Candidate majoring in Computer Science at [Rutgers University](https://www.cs.rutgers.edu/), with an expected graduation date in May 2024. I am working as a graduate assistant in the [**WISE Lab (Web Intelligent Systems and Economics)**](https://wise.cs.rutgers.edu/), advised by [Prof. Yongfeng Zhang](http://www.yongfeng.me/). Here is [my CV](https://lzl65825.github.io/file/CV_Zelong_Li.pdf).
+I’m currently a Master Student of Computer and Information Technology at University of Pennsylvania. Previously, I received my Master of Laws degree with Specialization in Technology and Law from UC Berkeley, Before that, I received my Bachelor of Laws degree with minor in Internet Finance from Tsinghua University.
 
-I have over 15 years of coding experience. I wrote the LOGO language to get an award in a coding competition in 2007 as a fifth-grade primary school student. I started learning C++ in 2009 as a sixth-grade primary school student and later got multiple [awards](https://lzl65825.github.io/awards/) from high school coding competitions.
+I also worked with White & Case Corporate team as a Legal Manager, spent time at Global Law Office Investment Fund team as a Junior Associate, and interned at Orrick, Herrington & Sutcliffe Law Firm.
+
+<br>
+
+---
+
+## Research Interest
+
+My research interests lie in the intersection of computer science, law and policy. I’m interested in topics regarding:
+
+- FATE (Fairness, Accountability, Transparency, Ethics) in AI
+- Cybersecurity and Information Privacy
+- AI Law and Policy
+- NLP in the Legal Domain
 
 <br>
 
@@ -26,20 +39,9 @@ I have over 15 years of coding experience. I wrote the LOGO language to get an a
 
 ---
 
-## Research Interests
+## Professional Services
 
-- Recommendation System
-- Automated Machine Learning (AutoML)
-- Large Language Model (LLM)
+- Editor, Submissions Team of Berkeley Technology Law Journal (BTLJ)
+- Associate Editor, Tsinghua Law Review
+- Member, UC Berkeley PrivLab
 
-My main research topic in my Ph.D. career focuses on using  Automated Machine Learning for Information Retrieval. In addition, I also explore Knowledge Graphs, Reinforcement Learning, Recommendation Foundation Models, Artificial Intelligence for Science Discovery, and Efficient and Explainable Artificial Intelligence.
-
-<br>
-
----
-
-## Coding Competition Awards
-
-- 1st in Selection Contest for the 31st National Olympiad in Informatics in Fujian Province (2014) (top 0.03%)
-- 2nd Prize in the 7th Asia and Pacific Informatics Olympiad 2014 (APIO 2014) (top 0.06%)
-- 3rd Prize in the 31st National Olympiad in Informatics (NOI 2014) (top 0.23%)
