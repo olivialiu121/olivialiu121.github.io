@@ -8,7 +8,11 @@ layout: page
 
 Here is **Shuang LIU**.
 
+<br>
+
 I’m currently a Master Student of Computer and Information Technology at University of Pennsylvania. Previously, I received my Master of Laws degree with Specialization in Technology and Law from UC Berkeley, Before that, I received my Bachelor of Laws degree with minor in Internet Finance from Tsinghua University.
+
+<br>
 
 I also worked with White & Case LLP as a Legal Manager, spent time at Global Law Office as a Junior Associate, and interned at Orrick, Herrington & Sutcliffe Law Firm.
 
