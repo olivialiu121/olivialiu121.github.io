@@ -10,7 +10,7 @@ Here is **Shuang LIU**.
 
 I’m currently a Master Student of Computer and Information Technology at University of Pennsylvania. Previously, I received my Master of Laws degree with Specialization in Technology and Law from UC Berkeley, Before that, I received my Bachelor of Laws degree with minor in Internet Finance from Tsinghua University.
 
-I also worked with White & Case Corporate team as a Legal Manager, spent time at Global Law Office Investment Fund team as a Junior Associate, and interned at Orrick, Herrington & Sutcliffe Law Firm.
+I also worked with White & Case LLP as a Legal Manager, spent time at Global Law Office as a Junior Associate, and interned at Orrick, Herrington & Sutcliffe Law Firm.
 
 <br>
 
@@ -31,9 +31,10 @@ My research interests lie in the intersection of computer science, law and polic
 
 ## Academic Background
 
-- **Sep 2019 - Present:** Rutgers University (Ph.D. Candidate in Computer Science)
-- **Sep 2015 - Jul 2019:** Tsinghua University (B.E. in Computer Science and Technology)
-- **Sep 2009 - Jun 2015:** Fuzhou No.1 High School
+- **August 2023 – Present:** University of Pennsylvania, *Master of Computer and Information Technology (MCIT)*
+- **August 2021 – May 2022:** University of California, Berkeley, *Master of Laws (LL.M., Specialization in Technology and Law) with Honors of Dean’s List Graduate*
+- **August 2016 – June 2020:** Tsinghua University, *Bachelor of Laws (LL.B., minor in Internet Finance)*
+- **January 2019 – May 2019:** Columbia University, *Visiting student*
 
 <br>
 

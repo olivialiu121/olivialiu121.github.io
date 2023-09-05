@@ -1,31 +1,28 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /experience/index.html
+title: Experience
 ---
 
 Lastest Update: Aug 31 2023
 
-## Publications
+## Research experience
 
-- [Efficient Non-Sampling Graph Neural Networks](https://www.mdpi.com/2078-2489/14/8/424)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>Information 2023.<br>July 25 2023.<br>
+- **Data Portability and Privacy Protection**<br>January 2023 – Present
 
-- [Counterfactual Collaborative Reasoning](https://dl.acm.org/doi/abs/10.1145/3539597.3570464)<br>Jianchao, Ji, **Zelong Li**, Shuyuan Xu, Max Xiong, Juntao Tan, Yingqiang Ge, Hao Wang, Yongfeng Zhang<br>The 16th ACM International Conference on Web Search and Data Mining (**WSDM 2023**).<br>February 27 - March 3, 2023, Singapore. [PDF](https://www.yongfeng.me/attach/ji-wsdm2023.pdf)
+- **Legal Analysis of Specialized Courts in China**<br>*Research Assistant*, June 2020 – May 2021<br>Supervisor: [Mark Jia](https://www.law.georgetown.edu/faculty/mark-jia/), Associate Professor, Georgetown University, School of Law
 
-- [AutoLossGen: Automatic Loss Function Generation for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3477495.3531941)<br>**Zelong Li**, Jianchao Ji, Yingqiang Ge, Yongfeng Zhang.<br>The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**).<br>July 11 - 15, 2022, Madrid, Spain. [Code](https://github.com/rutgerswiselab/AutoLossGen)
+- **Judgments Publication and Privacy**<br>*Research Assistant*, December 2018 – January 2019<br>Supervisor: [Haibo He](https://www.law.tsinghua.edu.cn/en/info/1055/1237.htm), Associate Professor at Tsinghua University, School of Law
 
-- [Explainable Fairness in Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531973)<br>Yingqiang Ge, Juntao Tan, Yan Zhu, Yinglong Xia, Jiebo Luo, Shuchang Liu, Zuohui Fu, Shijie Geng, **Zelong Li**, Yongfeng Zhang.<br>The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**).<br>July 11 - 15, 2022, Madrid, Spain.
+- **Used Vehicle Trade and Unfairness**<br>*Research Assistant*, March 2018 – October 2018<br>Supervisor: [Danxia Xie](https://www.tsinghua.edu.cn/iesen/info/1021/1150.htm), Associate Professor, Tsinghua University, Department of Economics
 
-- [From Kepler to Newton: Explainable AI for Science Discovery](https://arxiv.org/abs/2111.12210)<br>**Zelong Li**, Jianchao Ji, Yongfeng Zhang.<br>ICML 2022 2nd AI for Science Workshop. [Video and Slides](https://slideslive.com/38986142)
+## Work Experience
 
-- [HOOPS: Human-in-the-Loop Graph Reasoning for Conversational Recommendation](https://par.nsf.gov/servlets/purl/10295248)<br>Zuohui Fu, Yikun Xian, Yaxin Zhu, Shuyuan Xu, **Zelong Li**, Gerard De Melo, Yongfeng Zhang.<br>The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2021**)<br>July 11 - 15, 2021, Virtual Event, Canada. [Code](https://github.com/zuohuif/HOOPS)
+- **White & Case LLP**, Central, Hong Kong<br>*Legal Manager*, September 2022 – Present
+    - *TMT / PE & MA*
 
-- [Efficient Non-Sampling Knowledge Graph Embedding](https://dl.acm.org/doi/abs/10.1145/3442381.3449859)<br>**Zelong Li**, Jianchao Ji, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, Chong Chen, Yongfeng Zhang.The Web Conference 2021 (**WWW 2021**)<br>April 19 - 23, 2021, Ljubljana, Slovenia. [PDF](https://par.nsf.gov/servlets/purl/10295245). [Code](https://github.com/rutgerswiselab/NS-KGE)
+- **Global Law Office**, Beijing, China<br>*Junior Associate*, April 2020 – May 2021
+    - Investment Funds
 
-## Preprints
-
-- [GenRec: Large Language Model for Generative Recommendation](https://arxiv.org/abs/2307.00457)<br>Jianchao Ji, **Zelong Li**, Shuyuan Xu, Wenyue Hua, Yingqiang Ge, Juntao Tan, Yongfeng Zhang.<br>arXiv:2307.00457. [Code](https://github.com/rutgerswiselab/GenRec)
-
-- [A Survey on Trustworthy Recommender Systems](https://arxiv.org/abs/2207.12515)<br>Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, **Zelong Li**, Shuyuan Xu, Yunqi Li, Yikun Xian, Yongfeng Zhang.<br>arXiv:2207.12515.
-
-- [Counterfactual Evaluation for Explainable AI](https://arxiv.org/abs/2109.01962)<br>Yingqiang Ge, Shuchang Liu, **Zelong Li**, Shuyuan Xu, Shijie Geng, Yunqi Li, Juntao Tan, Fei Sun, Yongfeng Zhang.<br>arXiv:2109.01962.
+- **Orrick, Herrington & Sutcliffe Law Firm**, Beijing, China<br>*Summer Intern*, July 2019 – October 2019
+    - TMT / corporate
