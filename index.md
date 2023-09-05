@@ -10,7 +10,7 @@ layout: page
 
 Here is **Shuang LIU**.
 
-I’m currently a Master Student of Computer and Information Technology at University of Pennsylvania. Previously, I received my Master of Laws degree with Specialization in Technology and Law from UC Berkeley, Before that, I received my Bachelor of Laws degree with minor in Internet Finance from Tsinghua University.
+I’m currently a Master student of Computer and Information Technology at the University of Pennsylvania. Previously, I received my Master of Laws degree with the specialization in Technology and Law from the University of California, Berkeley. Before that, I received my Bachelor of Laws degree from Tsinghua University.
 
 I also worked with White & Case LLP as a Legal Manager, spent time at Global Law Office as a Junior Associate, and interned at Orrick, Herrington & Sutcliffe Law Firm.
 
@@ -34,7 +34,7 @@ My research interests lie in the intersection of computer science, law and polic
 ## Academic Background
 
 - **August 2023 – Present:** University of Pennsylvania, *Master of Computer and Information Technology (MCIT)*
-- **August 2021 – May 2022:** University of California, Berkeley, *Master of Laws (LL.M., Specialization in Technology and Law) with Honors of Dean’s List Graduate*
+- **August 2021 – May 2022:** University of California, Berkeley, *Master of Laws (LL.M., Specialization in Technology and Law) with Honors of Dean’s List Graduate*, **(Top 10% of the Class)**
 - **August 2016 – June 2020:** Tsinghua University, *Bachelor of Laws (LL.B., minor in Internet Finance)*
 - **January 2019 – May 2019:** Columbia University, *Visiting student*
 
@@ -44,7 +44,7 @@ My research interests lie in the intersection of computer science, law and polic
 
 ## Professional Services
 
-- Editor, Submissions Team of Berkeley Technology Law Journal (BTLJ)
+- Submissions Team, Berkeley Technology Law Journal (BTLJ)
 - Associate Editor, Tsinghua Law Review
 - Member, UC Berkeley PrivLab
 

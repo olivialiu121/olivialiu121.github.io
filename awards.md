@@ -8,16 +8,36 @@ Lastest Update: Sep 5 2023
 
 ## Awards
 
-- 2019: TECO International Contest, Gold Medalist (0.1%)
-- 2019: Princeton Environmental Ideathon, Gold Prize (0.1%)
-- 2019: China “Internet+” Innovation and Entrepreneurship Competition, Second Prize (5%) 
-- 2018: "Challenge Cup" Tsinghua University Academic Competition, Second Prize 
+### 2022
+
+- UC Berkeley Law Honors of Dean’s List Graduate (Top 10% of the Class)
+
+### 2019
+
+- TECO International Contest, Gold Medalist (0.1%)
+- Princeton Environmental Ideathon, Gold Prize (0.1%)
+- China “Internet+” Innovation and Entrepreneurship Competition, Second Prize (5%) 
+
+### 2018
+
+- "Challenge Cup" Tsinghua University Academic Competition, Second Prize 
 
 ## Honor
 
-- 2019: Tsinghua Technology Excellence Scholarship
-- 2018: Tsinghua Scientific Innovation Excellence Scholarship
-- 2017: Tsinghua Academic Excellence Scholarship
-- 2017: Tsinghua Comprehensive Excellence Scholarship
-- 2016: Tsinghua Social Work Excellence Scholarship
-- 2016: Tsinghua Social Investigation Excellence Scholarship
+### 2019
+
+- Tsinghua Technology Excellence Scholarship
+
+### 2018
+
+- Tsinghua Scientific Innovation Excellence Scholarship
+
+### 2017
+
+- Tsinghua Academic Excellence Scholarship
+- Tsinghua Comprehensive Excellence Scholarship
+
+### 2016
+
+- Tsinghua Social Work Excellence Scholarship
+- Tsinghua Social Investigation Excellence Scholarship
