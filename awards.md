@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: Sep 5 2023
+Lastest Update: Sep 14 2024
 
 ## Awards
 
@@ -21,23 +21,3 @@ Lastest Update: Sep 5 2023
 ### 2018
 
 - "Challenge Cup" Tsinghua University Academic Competition, Second Prize 
-
-## Honor
-
-### 2019
-
-- Tsinghua Technology Excellence Scholarship
-
-### 2018
-
-- Tsinghua Scientific Innovation Excellence Scholarship
-
-### 2017
-
-- Tsinghua Academic Excellence Scholarship
-- Tsinghua Comprehensive Excellence Scholarship
-
-### 2016
-
-- Tsinghua Social Work Excellence Scholarship
-- Tsinghua Social Investigation Excellence Scholarship
