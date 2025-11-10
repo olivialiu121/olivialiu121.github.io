@@ -20,10 +20,22 @@ I am a first year [Societal Computing](https://sc.cs.cmu.edu/) Ph.D. student in 
 
 My research interests lie in the intersection of computer science, law and policy. I’m interested in topics regarding:
 
+- LLM application in legal tasks
 - FATE (Fairness, Accountability, Transparency, Ethics) in AI
 - Cybersecurity and Information Privacy
 - AI Law and Policy
-- NLP in the Legal Domain
+
+<br>
+
+---
+
+## Recent Talks
+Natural Legal Language Processing (NLLP) Workshop, November 8 2025
+- ContractEval: Benchmarking LLMs for Clause-Level Legal Risk Identification in Commercial Contracts
+
+9th Workshop on Technology and Consumer Protection (ConPro ’25), May 15, 2025
+- Privacy-preserving Age Verification based on Improved Verifiable Credentials Framework
+
 
 <br>
 
