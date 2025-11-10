@@ -8,7 +8,7 @@ Lastest Update: Sep 14 2024
 
 ## Work Experience
 
-- **CMU**, Pittsburgh, US<br>*Research Assistant*, May 2025 – Current
+- **Carnegie Mellon University**, Pittsburgh, United States<br>*Research Assistant*, May 2025 – Current
     - Privacy & Security: building privacy-preserving age verification approaches<br> 
 
 - **White & Case LLP**, Central, Hong Kong<br>*Legal Manager*, September 2022 – May 2024

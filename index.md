@@ -30,11 +30,12 @@ My research interests lie in the intersection of computer science, law and polic
 ---
 
 ## Recent Talks
-Natural Legal Language Processing (NLLP) Workshop, November 8 2025
-- ContractEval: Benchmarking LLMs for Clause-Level Legal Risk Identification in Commercial Contracts
 
-9th Workshop on Technology and Consumer Protection (ConPro ’25), May 15, 2025
-- Privacy-preserving Age Verification based on Improved Verifiable Credentials Framework
+- **Natural Legal Language Processing (NLLP) Workshop** — November 8, 2025  
+  *ContractEval: Benchmarking LLMs for Clause-Level Legal Risk Identification in Commercial Contracts*
+
+- **9th Workshop on Technology and Consumer Protection (ConPro '25)** — May 15, 2025  
+  *Privacy-preserving Age Verification based on Improved Verifiable Credentials Framework*
 
 
 <br>
