@@ -10,7 +10,7 @@ layout: page
 
 Here is **Shuang LIU**.
 
-I am a first year [Societal Computing](https://sc.cs.cmu.edu/) Ph.D. student in the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) (CMU), advised by [Sarah Scheffler](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html). I am a member of [CyLab](https://www.cylab.cmu.edu/), the security and privacy institute at CMU.
+I am a second year Ph.D. student in the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) (CMU), advised by [Sarah Scheffler](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html). I am a member of [CyLab](https://www.cylab.cmu.edu/), the security and privacy institute at CMU.
 
 <br>
 
@@ -20,10 +20,11 @@ I am a first year [Societal Computing](https://sc.cs.cmu.edu/) Ph.D. student in 
 
 My research interests lie in the intersection of computer science, law and policy. I’m interested in topics regarding:
 
-- LLM application in legal tasks
+- LLM reasoning and evaluation with applications in legal domains
+- LLM agents
 - FATE (Fairness, Accountability, Transparency, Ethics) in AI
 - Cybersecurity and Information Privacy
-- AI Law and Policy
+- AI Gorvenance and Policy
 
 <br>
 
@@ -42,10 +43,37 @@ My research interests lie in the intersection of computer science, law and polic
 
 ---
 
-## Academic Background
+## Publications
 
-- **August 2024 - Present:** Carnegie Mellon University, *Societal Computing Ph.D.*
-- **August 2023 – August 2024:** University of Pennsylvania, *Master of Computer and Information Technology (MCIT)*
-- **August 2021 – May 2022:** University of California, Berkeley, *Master of Laws (LL.M., Specialization in Technology and Law) with Honors of Dean’s List Graduate*
-- **August 2016 – June 2020:** Tsinghua University, *Bachelor of Laws (LL.B., minor in Internet Finance)*
-- **January 2019 – May 2019:** Columbia University, *Visiting student*
+### Conference Papers
+
+- **Adequately Tailoring Age Verification Regulations**
+  ***Shuang Liu** and Sarah Scheffler*
+  The ACM Symposium on Computer Science and Law, 2026
+  [[Paper]](https://arxiv.org/pdf/2601.20241)
+
+- **ContractEval: Benchmarking LLMs for Legal Risk Identification in Commercial Contracts**
+  ***Shuang Liu**, Zelong Li, Ruoyun Ma, Haiyan Zhao, and Mengnan Du*
+  EMNLP 2025 workshop on Natural Legal Language Processing (NLLP), 2025
+  [[Paper]](https://arxiv.org/pdf/2508.03080) [[Code]](https://github.com/olivialiu121/ContractEval)
+
+- **Privacy-preserving Age Verification based on Improved Verifiable Credentials Framework**
+  ***Shuang Liu** and Sarah Scheffler*
+  9th Workshop on Technology and Consumer Protection (ConPro '25), 2025
+  [[Paper]](https://conpro25.ieee-security.org/papers/liu-conpro25.pdf)
+
+
+### Journal Papers
+
+- **Deepfake & Deepfaith**
+  *Jiawei Zhang and **Shuang Liu** (equal contribution)*
+  Buffalo Law Review, 2026 (forthcoming)
+  [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5976654)
+
+
+### Preprints
+
+- **LLM Agents in Law: Taxonomy, Applications, and Challenges**
+  ***Shuang Liu**, Ruijia Zhang, Ruoyun Ma, Yujia Deng, Lanyi Zhu, Jiayu Li, Zelong Li, Zhibin Shen, and Mengnan Du*
+  arXiv, 2026
+  [[arXiv]](https://arxiv.org/pdf/2601.06216)
