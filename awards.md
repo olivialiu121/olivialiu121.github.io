@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: Sep 14 2024
-
 ## Awards
 
 ### 2025
