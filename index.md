@@ -1,32 +1,23 @@
 ---
 layout: page
+hero: true
+role: "Ph.D. Student · School of Computer Science, Carnegie Mellon University"
 ---
-
-<img src="https://olivialiu121.github.io/olivia.jpg" class="floatpic" width="512" height="512">
 
 ## About Me
 
-<br>
-
-Here is **Shuang LIU**.
-
-I am a second year Ph.D. student in the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) (CMU), advised by [Sarah Scheffler](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html). I am a member of [CyLab](https://www.cylab.cmu.edu/), the security and privacy institute at CMU.
+I am a second-year Ph.D. student in the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) (CMU), advised by [Sarah Scheffler](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html). I am a member of [CyLab](https://www.cylab.cmu.edu/), the security and privacy institute at CMU. Before studying at CMU, I obtained my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I went on to earn master's degrees from the [University of Pennsylvania](https://www.upenn.edu/) (M.S. in Computer and Information Technology) and the [University of California, Berkeley](https://www.berkeley.edu/) (LL.M. in Technology and Law).
 
 
-
----
 
 ## Research Interest
 
-My research interests lie in the intersection of computer science, law and policy. I’m interested in topics regarding:
+My research interests focus on:
 
-- LLM reasoning and evaluation with applications in legal domains
+- LLMs reasoning and evaluation
 - LLM agents
 - FATE (Fairness, Accountability, Transparency, Ethics) in AI
-- Cybersecurity and Information Privacy
-- AI Gorvenance and Policy
-
----
+- ML security and privacy
 
 ## Recent Talks
 
@@ -36,17 +27,48 @@ My research interests lie in the intersection of computer science, law and polic
 - **9th Workshop on Technology and Consumer Protection (ConPro '25)** — May 15, 2025  
   *Privacy-preserving Age Verification based on Improved Verifiable Credentials Framework*
 
----
-
 ## Publications
+
+### *Preprints*
+
+<div class="pub">
+  <div class="pub-title">
+    HARVE: Hacking-Aware Reward-Head Vector Editing for Robust Reward Models
+  </div>
+  <div class="pub-authors">
+    <strong>Shuang Liu</strong>, Yuxuan Bo, Qiuyang Zhao, Caiyue Huang, Xiaorong Chen,
+    Yanguang Liu, and Mengnan Du
+  </div>
+  <div class="pub-venue">
+    arXiv, 2026
+    <span class="pub-links">
+      <a href="https://arxiv.org/abs/2606.03131">arXiv</a>
+      <a href="https://github.com/olivialiu121/HARVE-Reward-Head-Editing">Code</a>
+    </span>
+  </div>
+</div>
 
 ### *Conference Papers*
 
 <div class="pub">
   <div class="pub-title">
-    <a href="https://arxiv.org/pdf/2601.20241">
-      Adequately Tailoring Age Verification Regulations
-    </a>
+    LLM Agents in Law: Taxonomy, Applications, and Challenges
+  </div>
+  <div class="pub-authors">
+    <strong>Shuang Liu</strong>, Ruijia Zhang, Ruoyun Ma, Yujia Deng, Lanyi Zhu,
+    Jiayu Li, Zelong Li, Zhibin Shen, and Mengnan Du
+  </div>
+  <div class="pub-venue">
+    Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main Conference)
+    <span class="pub-links">
+      <a href="https://arxiv.org/pdf/2601.06216">Paper</a>
+    </span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-title">
+    Adequately Tailoring Age Verification Regulations
   </div>
   <div class="pub-authors">
     <strong>Shuang Liu</strong> and Sarah Scheffler
@@ -61,15 +83,13 @@ My research interests lie in the intersection of computer science, law and polic
 
 <div class="pub">
   <div class="pub-title">
-    <a href="https://arxiv.org/pdf/2508.03080">
-      ContractEval: Benchmarking LLMs for Legal Risk Identification in Commercial Contracts
-    </a>
+    ContractEval: Benchmarking LLMs for Legal Risk Identification in Commercial Contracts
   </div>
   <div class="pub-authors">
     <strong>Shuang Liu</strong>, Zelong Li, Ruoyun Ma, Haiyan Zhao, and Mengnan Du
   </div>
   <div class="pub-venue">
-    The 7th workshop on Natural Legal Language Processingg, 2025
+    The 7th Workshop on Natural Legal Language Processing, 2025
     <span class="pub-links">
       <a href="https://arxiv.org/pdf/2508.03080">Paper</a>
       <a href="https://github.com/olivialiu121/ContractEval">Code</a>
@@ -102,31 +122,13 @@ My research interests lie in the intersection of computer science, law and polic
     Jiawei Zhang* and <strong>Shuang Liu*</strong> (*equal contribution)
   </div>
   <div class="pub-venue">
-    Buffalo Law Review, 2026 (forthcoming)
+    Buffalo Law Review, 2026
     <span class="pub-links">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5976654">Paper</a>
     </span>
   </div>
 </div>
 
-### *Preprints*
 
-<div class="pub">
-  <div class="pub-title">
-    <a href="https://arxiv.org/pdf/2601.06216">
-      LLM Agents in Law: Taxonomy, Applications, and Challenges
-    </a>
-  </div>
-  <div class="pub-authors">
-    <strong>Shuang Liu</strong>, Ruijia Zhang, Ruoyun Ma, Yujia Deng, Lanyi Zhu,
-    Jiayu Li, Zelong Li, Zhibin Shen, and Mengnan Du
-  </div>
-  <div class="pub-venue">
-    arXiv, 2026
-    <span class="pub-links">
-      <a href="https://arxiv.org/pdf/2601.06216">arXiv</a>
-    </span>
-  </div>
-</div>
 
 

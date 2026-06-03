@@ -1,0 +1,214 @@
+/* ============================================================
+   site.css — Clean & Minimal design system
+   Loaded after main.css to override the legacy theme.
+   ============================================================ */
+
+:root{
+  --bg:#ffffff; --surface:#f7f8fa; --text:#1c2024; --muted:#5b6470;
+  --border:#e6e8eb; --accent:#2563eb; --accent-soft:#eef2ff;
+  --max:760px; --radius:8px;
+}
+html[data-theme="dark"]{
+  --bg:#0f1115; --surface:#171a21; --text:#e7e9ee; --muted:#9aa3af;
+  --border:#262a33; --accent:#6ea8ff; --accent-soft:#1b2333;
+}
+
+/* ---- reset / base ---- */
+*{box-sizing:border-box}
+/* Always reserve the vertical scrollbar gutter so short pages (Experience)
+   and tall pages (Home) keep the same content width — prevents the
+   "zoom"/shift when navigating between them.
+   font-size is locked with !important because the legacy main.css scales the
+   root font 90%/95%/100%/112.5% across breakpoints, which read as "zoom". */
+html{font-size:100% !important; scrollbar-gutter:stable; overflow-y:scroll}
+body{
+  margin:0;
+  font-family:'Inter',system-ui,-apple-system,"Segoe UI",sans-serif;
+  background:var(--bg); color:var(--text);
+  line-height:1.65; -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  transition:background .3s, color .3s;
+}
+.container{max-width:var(--max); margin:0 auto; padding:0 24px}
+
+/* Reset the legacy main.css `article{float:left; width:89%/50%/37.5%; margin:5.3%}`
+   rules so the content is always full container width and identical on every
+   page/viewport (was making the About Me column narrower than Experience). */
+.content{display:block !important; float:none !important; width:100% !important; margin:0 !important}
+
+/* Force Inter everywhere — overrides legacy main.css PT Sans/Serif rules
+   (main.css sets an explicit font-family on h1–h6, inputs, nav, etc.) */
+body,
+h1, h2, h3, h4, h5, h6,
+button, input, select, textarea,
+.brand, .site-nav, .navigation-wrapper, .hero h1, .page-head h1{
+  font-family:'Inter',system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+
+a{color:var(--accent); text-decoration:none; border:0}
+a:hover{text-decoration:underline}
+
+img{max-width:100%; height:auto}
+hr{border:0; border-top:1px solid var(--border); margin:2em 0}
+
+/* ---- headings & content typography ---- */
+/* color:var(--text) overrides legacy main.css `h1-h6{color:#333332}`,
+   which was almost invisible on the dark background */
+.content h1,.content h2,.content h3,.content h4,
+.page-head h1,.hero h1{
+  color:var(--text);
+}
+.content h1,.content h2,.content h3,.content h4{
+  letter-spacing:-.01em; line-height:1.25; font-weight:700;
+}
+.content h2{
+  font-size:1.2rem; margin:2.4em 0 .7em;
+  padding-bottom:.4em; border-bottom:1px solid var(--border);
+}
+.content h2:first-child{margin-top:.4em}
+.content h3{font-size:1.02rem; margin:1.6em 0 .5em; color:var(--text)}
+.content h4{font-size:.95rem; margin:1.3em 0 .4em}
+.content p{margin:0 0 1em}
+.content ul,.content ol{margin:0 0 1em; padding-left:1.25em}
+.content li{margin:.3em 0}
+.content blockquote{
+  margin:1.2em 0; padding:.4em 1.1em; color:var(--muted);
+  border-left:3px solid var(--border); background:var(--surface);
+  border-radius:0 var(--radius) var(--radius) 0;
+}
+.content code{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  font-size:.88em; background:var(--surface); padding:.12em .4em;
+  border-radius:5px; border:1px solid var(--border);
+}
+.content pre{background:var(--surface); border:1px solid var(--border);
+  border-radius:var(--radius); padding:14px 16px; overflow:auto}
+.content pre code{background:none; border:0; padding:0}
+.content table{width:100%; border-collapse:collapse; margin:1.2em 0}
+.content th,.content td{border:1px solid var(--border); padding:.5em .7em; text-align:left}
+.content th{background:var(--surface)}
+.content img{border-radius:var(--radius)}
+
+/* ---- header / nav ---- */
+.site-header{
+  position:sticky; top:0; z-index:20;
+  background:color-mix(in srgb, var(--bg) 85%, transparent);
+  backdrop-filter:saturate(180%) blur(10px);
+  -webkit-backdrop-filter:saturate(180%) blur(10px);
+  border-bottom:1px solid var(--border);
+}
+.nav-inner{display:flex; align-items:center; justify-content:space-between; height:60px; gap:16px}
+.brand{font-weight:700; letter-spacing:-.01em; color:var(--text); font-size:1.05rem}
+.brand:hover{text-decoration:none; color:var(--accent)}
+.site-nav{display:flex; align-items:center; gap:6px; flex-wrap:wrap}
+.site-nav a{
+  color:var(--muted); font-weight:500; font-size:.92rem;
+  padding:6px 10px; border-radius:7px;
+}
+.site-nav a:hover{color:var(--accent); background:var(--accent-soft); text-decoration:none}
+.site-nav a.active{color:var(--accent); background:var(--accent-soft)}
+.theme-toggle{
+  background:var(--surface); border:1px solid var(--border); border-radius:8px;
+  width:38px; height:34px; cursor:pointer; color:var(--text); font-size:1rem;
+  display:inline-flex; align-items:center; justify-content:center; margin-left:6px;
+  transition:border-color .2s;
+}
+.theme-toggle:hover{border-color:var(--accent)}
+
+/* ---- hero (home only) ---- */
+.hero{display:flex; gap:32px; align-items:center; padding:54px 0 8px}
+.hero-avatar{
+  width:128px; height:128px; border-radius:50%; object-fit:cover;
+  border:1px solid var(--border); flex:0 0 auto;
+}
+.hero h1{margin:0 0 4px; font-size:2rem; letter-spacing:-.02em}
+.hero-role{color:var(--muted); margin:0 0 14px}
+.hero-links{display:flex; flex-wrap:wrap; gap:8px}
+.hero-links a{
+  font-size:.85rem; font-weight:500; padding:5px 12px;
+  border:1px solid var(--border); border-radius:999px; color:var(--muted);
+}
+.hero-links a:hover{border-color:var(--accent); color:var(--accent); text-decoration:none}
+
+/* ---- inner page heading ---- */
+.page-head{padding:44px 0 22px}
+.page-head h1{margin:0; font-size:1.8rem; letter-spacing:-.02em}
+
+main.container{padding-bottom:30px}
+
+/* ---- publications ---- */
+/* border:0 overrides legacy main.css `.pub{border-bottom:1px solid #e6e6e6}` */
+.pub{padding:7px 0; border:0}
+.pub-title{font-weight:600; line-height:1.35; margin:0}
+.pub-title a{color:var(--text)}
+.pub-title a:hover{color:var(--accent); text-decoration:none}
+.pub-authors{font-size:.95rem; margin:.2em 0}
+.pub-venue{color:var(--muted); font-size:.9rem; margin:0}
+.pub-links{margin-left:0}
+.pub-links a{
+  display:inline-block; font-size:.78rem; font-weight:600;
+  padding:2px 9px; margin-left:6px; border-radius:6px;
+  background:var(--accent-soft); color:var(--accent);
+}
+.pub-links a:hover{filter:brightness(.96); text-decoration:none}
+
+/* sub-labels like *Conference Papers* rendered as <h3><em> */
+.content h3 em{font-style:normal; text-transform:uppercase; letter-spacing:.08em;
+  font-size:.8rem; color:var(--muted)}
+
+/* Miscellaneous page: drop the heading underlines above the photo grids */
+.misc .content h2{border-bottom:0; padding-bottom:0}
+
+/* ---- CV / experience entries ---- */
+.cv-entry{padding:11px 0}
+.cv-head{display:flex; flex-wrap:wrap; align-items:baseline; gap:4px 10px}
+.cv-org{font-weight:600}
+.cv-date{margin-left:auto; color:var(--muted); font-size:.86rem; white-space:nowrap}
+.cv-meta{color:var(--muted); font-size:.92rem; margin-top:2px}
+.cv-desc{margin-top:4px}
+@media (max-width:640px){
+  .cv-date{margin-left:0; flex-basis:100%}
+}
+
+/* ---- talks list helper (optional markup) ---- */
+.talk{margin:0 0 14px}
+.talk .t{font-weight:600}
+.talk .m{color:var(--muted); font-size:.9rem}
+
+/* ---- image grids used on Miscellaneous ---- */
+.third,.half,.fourth{display:grid; gap:12px; margin:1em 0}
+.third{grid-template-columns:repeat(3,1fr)}
+.half{grid-template-columns:repeat(2,1fr)}
+.fourth{grid-template-columns:repeat(4,1fr)}
+.third img,.half img,.fourth img{
+  width:100%; aspect-ratio:4/3; object-fit:cover;
+  border-radius:var(--radius); display:block;
+}
+/* neutralize legacy main.css clearfix pseudo-elements, which would
+   otherwise become empty grid items and shift the layout */
+.third::before,.third::after,
+.half::before,.half::after,
+.fourth::before,.fourth::after{content:none; display:none}
+img.floatpic{float:right; margin:0 0 1em 1.4em; width:34%; border-radius:50%}
+
+/* ---- footer ---- */
+.site-footer{border-top:1px solid var(--border); margin-top:40px}
+.site-footer .container{padding-top:26px; padding-bottom:40px}
+.site-footer h6{margin:0; font-weight:400; font-size:.82rem; color:var(--muted); line-height:1.7}
+.site-footer a{color:var(--muted); text-decoration:underline}
+.site-footer a:hover{color:var(--accent)}
+
+/* ---- responsive ---- */
+@media (max-width:640px){
+  .hero{flex-direction:column; text-align:center; gap:18px; padding:36px 0 4px}
+  .hero-links{justify-content:center}
+  .hero-avatar{width:108px; height:108px}
+  .hero h1{font-size:1.7rem}
+  .nav-inner{height:auto; padding:10px 0; flex-wrap:wrap}
+  .third{grid-template-columns:repeat(2,1fr)}
+  .fourth{grid-template-columns:repeat(2,1fr)}
+  img.floatpic{float:none; display:block; margin:0 auto 1em; width:60%}
+}
+
+/* respect reduced motion */
+@media (prefers-reduced-motion:reduce){*{transition:none !important}}

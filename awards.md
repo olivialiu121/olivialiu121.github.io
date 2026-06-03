@@ -4,7 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Awards
 
 ### 2025
 - P.E.O. International Peace Scholarship 2025

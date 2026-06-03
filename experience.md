@@ -5,26 +5,28 @@ title: Experience
 ---
 
 
-## Academic Background
-
-- **August 2024 - Present:** Carnegie Mellon University, *Societal Computing Ph.D.*
-- **August 2023 – August 2024:** University of Pennsylvania, *Master of Computer and Information Technology (MCIT)*
-- **August 2021 – May 2022:** University of California, Berkeley, *Master of Laws (LL.M., Specialization in Technology and Law) with Honors of Dean’s List Graduate*
-- **August 2016 – June 2020:** Tsinghua University, *Bachelor of Laws (LL.B., minor in Internet Finance)*
-- **January 2019 – May 2019:** Columbia University, *Visiting student*
 
 
+<div class="cv-entry">
+  <div class="cv-head"><span class="cv-org">Zoom</span><span class="cv-date">May 2026 – Present</span></div>
+  <div class="cv-meta">AI Scientist Intern · Seattle, United States</div>
+  <div class="cv-desc">Evaluation of voice and chat agents; post-training of agentic system.</div>
+</div>
 
----
+<div class="cv-entry">
+  <div class="cv-head"><span class="cv-org">Carnegie Mellon University</span><span class="cv-date">May 2025 – Present</span></div>
+  <div class="cv-meta">Research Assistant · Pittsburgh, United States</div>
+  <div class="cv-desc">Privacy &amp; Security — building privacy-preserving age verification approaches.</div>
+</div>
 
-## Work Experience
+<div class="cv-entry">
+  <div class="cv-head"><span class="cv-org">White &amp; Case LLP</span><span class="cv-date">Sep 2022 – May 2024</span></div>
+  <div class="cv-meta">Legal Manager · Central, Hong Kong</div>
+  <div class="cv-desc">TMT; Private Equity &amp; M&amp;A.</div>
+</div>
 
-- **Carnegie Mellon University**, Pittsburgh, United States<br>*Research Assistant*, May 2025 – Current
-    - Privacy & Security: building privacy-preserving age verification approaches<br> 
-
-- **White & Case LLP**, Central, Hong Kong<br>*Legal Manager*, September 2022 – May 2024
-    - TMT / PE & MA<br> 
-
-- **Global Law Office**, Beijing, China<br>*Junior Associate*, April 2020 – May 2021
-    - Investment Funds<br>
- 
+<div class="cv-entry">
+  <div class="cv-head"><span class="cv-org">Global Law Office</span><span class="cv-date">Apr 2020 – May 2021</span></div>
+  <div class="cv-meta">Junior Associate · Beijing, China</div>
+  <div class="cv-desc">Investment Funds.</div>
+</div>

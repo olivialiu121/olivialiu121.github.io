@@ -2,6 +2,7 @@
 layout: page
 permalink: /miscellaneous/index.html
 title: Miscellaneous
+bodyclass: misc
 ---
 
 In my spare time, I enjoy photography and hiking.

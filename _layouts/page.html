@@ -1,14 +1,18 @@
-<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
-<!-- It is not recommended to modify this code, unless you are a Pro-->
-
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-
+<html class="no-js" lang="en" itemscope itemtype="http://schema.org/WebPage">
 <head>
 {% include head.html %}
+
+<!-- No-flash theme init: set before first paint -->
+<script>
+  (function(){
+    try{
+      var t = localStorage.getItem('theme');
+      if(!t){ t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }
+      document.documentElement.setAttribute('data-theme', t);
+    }catch(e){}
+  })();
+</script>
 
 <script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
 
@@ -18,46 +22,75 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-T5N5JY1E21');
 </script>
-
 </head>
 
+<body class="page{% if page.bodyclass %} {{ page.bodyclass }}{% endif %}">
 
-<body class="page" itemscope itemtype="http://schema.org/WebPage">
-
-{% include chrome-frame.html %}
-
-{% include navigation.html %}
-
-{% if page.image.feature %}<div class="image-wrap">
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
-</div><!-- /.image-wrap -->{% endif %}
-
-<div id="main" role="main"  itemprop="mainContentOfPage">
-  <div class="article-author-top">
-    {% include author-bio.html %}
+<header class="site-header">
+  <div class="container nav-inner">
+    <a class="brand" href="{{ site.url }}/">{{ site.title }}</a>
+    {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
+    <nav class="site-nav" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+      {% for link in site.links %}
+        <a href="{{ site.url }}{{ link.url }}"{% if url == link.url %} class="active"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">🌙</button>
+    </nav>
   </div>
-  <article itemscope itemtype="http://schema.org/CreativeWork">
-  {% comment %}
-    <div class="headline-wrap">
-      <h1 itemprop="headline">{{ page.title }}</h1>
-    </div><!--/ .headline-wrap -->
-  {% endcomment %}
-    <div class="article-wrap" itemprop="text">
-      {{ content }}
-    </div><!-- /.article-wrap -->
+</header>
+
+<main class="container" role="main" itemprop="mainContentOfPage">
+
+  {% if page.hero %}
+  <section class="hero">
+    <img class="hero-avatar" src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }}">
+    <div>
+      <h1 itemprop="headline">{{ site.owner.name }}</h1>
+      {% if page.role %}<p class="hero-role">{{ page.role }}</p>{% endif %}
+      <div class="hero-links">
+        {% if site.owner.email %}<a href="mailto:{{ site.owner.email }}">✉ Email</a>{% endif %}
+        {% if site.owner.scholar %}<a href="{{ site.owner.scholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
+        {% if site.owner.linkedin %}<a href="https://linkedin.com/in/{{ site.owner.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+        {% if site.owner.cv %}<a href="{{ site.url }}{{ site.owner.cv }}" target="_blank" rel="noopener">CV</a>{% endif %}
+      </div>
+    </div>
+  </section>
+  {% else %}
+  <header class="page-head">
+    <h1 itemprop="headline">{{ page.title }}</h1>
+  </header>
+  {% endif %}
+
+  <article class="content" itemprop="text" itemscope itemtype="http://schema.org/CreativeWork">
+    {{ content }}
   </article>
-</div><!-- /#index -->
+</main>
 
-<div class="footer-wrap">
-  <footer>
+<footer class="site-footer">
+  <div class="container">
     {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+  </div>
+</footer>
 
-{% include scripts.html %}
+<script>
+  (function(){
+    var btn = document.getElementById('theme-toggle');
+    function sync(){
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      btn.textContent = dark ? '☀️' : '🌙';
+    }
+    sync();
+    btn.addEventListener('click', function(){
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      var next = dark ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try{ localStorage.setItem('theme', next); }catch(e){}
+      sync();
+    });
+  })();
+</script>
 
 </body>
 </html>
