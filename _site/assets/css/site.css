@@ -151,6 +151,15 @@ main.container{padding-bottom:30px}
   background:var(--accent-soft); color:var(--accent);
 }
 .pub-links a:hover{filter:brightness(.96); text-decoration:none}
+.pub-award{
+  display:inline-block; margin-top:5px;
+  font-size:.82rem; font-weight:600; color:#9a6700;
+  background:#fff6e0; border:1px solid #ffdf9e;
+  border-radius:6px; padding:1px 9px;
+}
+html[data-theme="dark"] .pub-award{
+  color:#ffcf80; background:#2a2113; border-color:#5a4620;
+}
 
 /* sub-labels like *Conference Papers* rendered as <h3><em> */
 .content h3 em{font-style:normal; text-transform:uppercase; letter-spacing:.08em;
