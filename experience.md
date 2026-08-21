@@ -8,7 +8,7 @@ title: Experience
 
 
 <div class="cv-entry">
-  <div class="cv-head"><span class="cv-org">Zoom</span><span class="cv-date">May 2026 – Present</span></div>
+  <div class="cv-head"><span class="cv-org">Zoom</span><span class="cv-date">May 2026 – Aug 2026</span></div>
   <div class="cv-meta">AI Scientist Intern · Seattle, United States</div>
   <div class="cv-desc">Evaluation of voice and chat agents; post-training of agentic system.</div>
 </div>

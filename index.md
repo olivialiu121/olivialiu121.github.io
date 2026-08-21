@@ -29,7 +29,7 @@ My research interests focus on:
 
 ## Publications
 
-### *Preprints*
+### *Conference Papers*
 
 <div class="pub">
   <div class="pub-title">
@@ -40,15 +40,13 @@ My research interests focus on:
     Yanguang Liu, and Mengnan Du
   </div>
   <div class="pub-venue">
-    arXiv, 2026
+    The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026), Main Conference
     <span class="pub-links">
-      <a href="https://arxiv.org/abs/2606.03131">arXiv</a>
+      <a href="https://arxiv.org/abs/2606.03131">Paper</a>
       <a href="https://github.com/olivialiu121/HARVE-Reward-Head-Editing">Code</a>
     </span>
   </div>
 </div>
-
-### *Conference Papers*
 
 <div class="pub">
   <div class="pub-title">
