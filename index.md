@@ -61,6 +61,21 @@ My research interests focus on:
   </div>
 </div>
 
+<div class="pub">
+  <div class="pub-title">
+    RewardExplainer: Learning Reward Model Explanations from Counterfactual Preference Feedback
+  </div>
+  <div class="pub-authors">
+    Jingyi He, Nier Wu, <strong>Shuang Liu</strong>, Xin Wang, Mengnan Du, and Xia Hu
+  </div>
+  <div class="pub-venue">
+    arXiv preprint, 2026
+    <span class="pub-links">
+      <a href="https://arxiv.org/abs/2609.33989">Paper</a>
+    </span>
+  </div>
+</div>
+
 ### *Conference Papers*
 
 <div class="pub">
