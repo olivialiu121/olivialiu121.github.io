@@ -6,7 +6,7 @@ role: "Ph.D. Student · School of Computer Science, Carnegie Mellon University"
 
 ## About Me
 
-I am a second-year Ph.D. student in the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) (CMU), advised by [Sarah Scheffler](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html). I am a member of [CyLab](https://www.cylab.cmu.edu/), the security and privacy institute at CMU. Before studying at CMU, I obtained my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I went on to earn master's degrees from the [University of Pennsylvania](https://www.upenn.edu/) (M.S. in Computer and Information Technology) and the [University of California, Berkeley](https://www.berkeley.edu/) (LL.M. in Technology and Law).
+I am a third-year Ph.D. student in the School of Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) (CMU), advised by [Sarah Scheffler](https://s3d.cmu.edu/people/core-faculty/scheffler-sarah.html). I am a member of [CyLab](https://www.cylab.cmu.edu/), the security and privacy institute at CMU. Before studying at CMU, I obtained my bachelor's degree from [Tsinghua University](https://www.tsinghua.edu.cn/en/). I went on to earn master's degrees from the [University of Pennsylvania](https://www.upenn.edu/) (M.S. in Computer and Information Technology) and the [University of California, Berkeley](https://www.berkeley.edu/) (LL.M. in Technology and Law).
 
 
 
@@ -28,6 +28,38 @@ My research interests focus on:
   *Privacy-preserving Age Verification based on Improved Verifiable Credentials Framework*
 
 ## Publications
+
+### *Preprints*
+
+<div class="pub">
+  <div class="pub-title">
+    BiasReducer: Adaptive Bias Mitigation for Reward Models
+  </div>
+  <div class="pub-authors">
+    <strong>Shuang Liu</strong>, Yongliang Miao, Yanguang Liu, Haoyi Xiong, and Mengnan Du
+  </div>
+  <div class="pub-venue">
+    arXiv preprint, 2026
+    <span class="pub-links">
+      <a href="https://arxiv.org/abs/2609.32720">Paper</a>
+    </span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="pub-title">
+    Look Before You Select: Rethinking Vocabulary Sparsification in On-Policy Distillation
+  </div>
+  <div class="pub-authors">
+    Yongliang Miao, <strong>Shuang Liu</strong>, Yanguang Liu, Yandong Bai, and Mengnan Du
+  </div>
+  <div class="pub-venue">
+    arXiv preprint, 2026
+    <span class="pub-links">
+      <a href="https://arxiv.org/abs/2609.34386">Paper</a>
+    </span>
+  </div>
+</div>
 
 ### *Conference Papers*
 
