@@ -14,6 +14,11 @@ I am a third-year Ph.D. student in the School of Computer Science at [Carnegie M
 
 Reward modeling and RLHF robustness; LLM post-training and alignment; LLM evaluation and agents (benchmarks and user simulation); synthetic data generation; trustworthy and responsible AI; ML privacy and safety; AI governance and legal AI.
 
+<div class="collab">
+  <svg class="collab-icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+  <p>I am always open to collaboration. If you are working on related topics, or would simply like to chat about research, feel free to <a href="mailto:{{ site.owner.email }}">email me</a>.</p>
+</div>
+
 ## Publications
 
 ### *Preprints*
